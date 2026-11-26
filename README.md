@@ -31,8 +31,10 @@
 
 > [HW02成绩](https://github.com/rosickey/cad-homework-2026/tree/main/grades/HW02-grades.md)
 
+
 ## [第三次作业](https://github.com/rosickey/cad-homework-2026/tree/main/assignments/HW03)
 
+> [HW03成绩](https://github.com/rosickey/cad-homework-2026/tree/main/grades/HW03-grades.md)
 
 ## 一、Windows 准备工作
 
